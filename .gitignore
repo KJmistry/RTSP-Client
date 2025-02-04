@@ -1,0 +1,40 @@
+# VS Code
+.vscode/
+
+# Ignore build directory
+/build/
+
+# Ignore install directory
+/install/
+
+# Log files
+*.log
+
+# Binary files
+*.bin
+*.out
+*.exe
+
+# Ignore common build artifacts
+*.o
+*.ko
+*.mod.c
+*.cmd
+*.symvers
+*.order
+*.dwo
+*.d
+*.mod
+*.mod.o
+*.mod.cmd
+modules.order
+Module.symvers
+install_manifest.txt
+*.so
+*.a
+
+# Ignore CMake generated files
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
