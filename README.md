@@ -2,8 +2,9 @@
 
 ## Overview  
 
-This project is an **RTSP client** that receives and decodes an RTSP stream using **FFmpeg** and displays it using **SDL2**.  
-It supports different transport protocols (**TCP, UDP, HTTP**) and allows authentication via a **username and password**.
+The initial goal of this project is to study how RTSP (Real-Time Streaming Protocol) operates and to analyze the RTSP packets sent and received over the network while the application is running.  
+- This project is an **RTSP client** that receives and decodes an RTSP stream using **FFmpeg** and displays it using **SDL2**. 
+- It supports different transport protocols (**TCP, UDP, HTTP**) and allows authentication via a **username and password**.
 
 ## Features  
 
