@@ -103,6 +103,7 @@ make install
 - Some RTSP streams may require additional FFmpeg options for compatibility.  
 - Network latency may impact real-time performance.  
 - The current implementation does not support **audio decoding**.  
+- Gets permanently stuck or hangs when handling higher bitrate streams.  
 
 ## Future Improvements  
 
