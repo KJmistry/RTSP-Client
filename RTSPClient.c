@@ -11,8 +11,8 @@
  * - FFmpeg (libavformat, libavcodec, libavutil): Used for handling and decoding the RTSP stream.
  *
  * Usage:
- *   ./rtsp_client <ip_address> <transport_type> <stream_path>
- *   Example: ./rtsp_client 192.168.101.47 tcp /unicaststream/2
+ *   ./RTSPClient.bin <ip_address> <transport_type> <stream_path>
+ *   Example: ./RTSPClient.bin 192.168.101.47 tcp /unicaststream/2
  *
  */
 
